@@ -9,7 +9,7 @@ Counts are characters / UTF-8 bytes, measured with Python. None of the files end
 
 | Field | Before | After |
 |---|---|---|
-| name.txt (max 30) | `Airport Panic: Family Rush` (26) | `Airport Panic: Family Travel` (28) |
+| name.txt (max 30) | `Airport Panic: Family Rush` (26) | unchanged (owner kept the name; "travel" moved into keywords instead of "dash") |
 | subtitle.txt (max 30) | `Time management travel game` (27) | `Packing & time management game` (30) |
 | keywords.txt (max 100 bytes) | `packing,suitcase,luggage,holiday,vacation,flight,plane,airline,mini games,kids,arcade,timer,dash` (96) | `suitcase,luggage,holiday,vacation,flight,plane,airline,offline,security,boarding,mini,puzzle,dash` (97) |
 | promotional_text.txt (max 170) | `Five airport mini-games, one boarding clock. Pack the case, clear security, sprint to the gate and get all four Bramleys on board. Levels 1-10 free. No ads, ever.` (162) | `Pack the case, clear security, dash to the gate and board before the doors close. Five airport mini-games, one countdown. Levels 1-10 free, no ads, plays offline.` (162) |
