@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://kdevelopment2026.github.io/airport-panic-site/sitemap.xml
